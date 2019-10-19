@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/listavisos_nome"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="Nome: Assalto na quadra xxxxxx"
+            />
+        <TextView
+            android:id="@+id/listavisos_descricao"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:gravity="center_vertical"
+            android:text="Descrição: Bandidos armados com fusil"
+            android:textSize="11dp"
+            />
+
+        <TextView
+            android:id="@+id/listavisos_horario"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="Horário: 18/10/2019 22:16:00"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/listavisos_longitude"
+            android:layout_width="match_parent"
+            android:layout_height="25dp"
+            android:text="Long: -24.5656565656"
+            android:textSize="11dp"
+            android:textAlignment="center"
+            android:gravity="center_vertical"
+            />
+
+        <TextView
+            android:id="@+id/listavisos_latitude"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:textSize="11dp"
+            android:text="Lati: -24.5655656"
+            android:textAlignment="center"
+            android:gravity="center_vertical"
+            />
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

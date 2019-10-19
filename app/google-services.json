@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "421669005234",
+    "firebase_url": "https://webservices-final.firebaseio.com",
+    "project_id": "webservices-final",
+    "storage_bucket": "webservices-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421669005234:android:1495a9218b11b51ce566ab",
+        "android_client_info": {
+          "package_name": "Faczz.Drevelopment.centraldeajuda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421669005234-d4qfu6m9m4kehs76oqsa1j0sqbms9kq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Faczz.Drevelopment.centraldeajuda",
+            "certificate_hash": "d4e625630dfb7f43edb66d123270d0822a61ae07"
+          }
+        },
+        {
+          "client_id": "421669005234-cs5dq2uj43rqdi83jmri7vj6djdi8d4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSVBBNOqawoMPGtnERQxSiFqG3wb_zJkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421669005234-cs5dq2uj43rqdi83jmri7vj6djdi8d4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
